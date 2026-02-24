@@ -1,6 +1,6 @@
 # placeholder-image
 
-Public repository hosting logo and placeholder images for the LeapX app.
+Public repository hosting logo and placeholder images for Harmony.
 
 **Caution: This is a public repository. Do not commit any sensitive or internal assets here.**
 
